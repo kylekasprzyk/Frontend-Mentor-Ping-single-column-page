@@ -176,7 +176,7 @@ button:hover {
     justify-content: center;
     height: 1.9375rem;
     width: 1.9375rem;
-    border: .0574rem solid hsl(var(--blue));
+    border: .0574rem solid hsl(var(--pale-blue));
     border-radius: 50%;
 }
 
