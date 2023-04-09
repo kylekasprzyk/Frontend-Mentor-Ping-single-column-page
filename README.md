@@ -40,7 +40,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ## Links
 
-- [Solution URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/ping-single-column-solution-MNU2r01JUF)
 - [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Ping-single-column-page/)
 
 ## Built with
