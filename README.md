@@ -3,7 +3,7 @@
   <h2>
     <a href="https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da"><strong>Frontend Mentor Challenge</strong></a>  </h2>
     <p>
-    <a href="#">My Solution</a>
+    <a href="https://kylekasprzyk.github.io/Frontend-Mentor-Ping-single-column-page/">My Solution</a>
   </p>
 </div>
 
@@ -41,7 +41,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ## Links
 
 - [Solution URL](#)
-- [Live Site URL](#)
+- [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Ping-single-column-page/)
 
 ## Built with
 
