@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    // adding comment here for testing
     // if validation passes, hide form elements and show success message
     form.style.display = 'none';
     successMessage.style.display = 'block';
