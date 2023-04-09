@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const emailField = document.getElementById('email');
   const emailError = document.getElementById('email-error');
   const successMessage = document.getElementById('success-message');
-  const closeButton = successMessage.querySelector('.close-button');
 
   form.addEventListener('submit', (event) => {
     event.preventDefault(); // prevent form submission
@@ -28,9 +27,5 @@ document.addEventListener('DOMContentLoaded', () => {
     // if validation passes, hide form elements and show success message
     form.style.display = 'none';
     successMessage.style.display = 'block';
-  });
-
-  closeButton.addEventListener('click', () => {
-    successMessage.style.display = 'none';
   });
 });
