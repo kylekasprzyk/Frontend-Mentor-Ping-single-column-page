@@ -181,6 +181,7 @@ button:hover {
 }
 
 .social-image:hover {
+    cursor: pointer;
     background: hsl(var(--blue));
     color: hsl(var(--white));
 }
